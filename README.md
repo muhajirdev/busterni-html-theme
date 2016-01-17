@@ -1,2 +1,2 @@
 # busterni-html-theme
-A Special Theme Originaly crafted for fossframe.com
+A Special Theme Originaly Crafted For FossFrame
